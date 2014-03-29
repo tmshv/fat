@@ -1,0 +1,31 @@
+{
+  "name": "fat",
+  "version": "0.1.0",
+  "description": "Framework for processing feeds",
+  "main": "./lib/fat.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmshv/fat.git"
+  },
+  "keywords": [
+  "processing",
+    "feed",
+    "rss",
+    "atom",
+    "news",
+    "twit",
+    "twitter"
+  ],
+  "author": "Roman Timashev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmshv/fat/issues"
+  },
+  "homepage": "http://fat.tmshv.ru",
+  "devDependencies": {
+    "should": "~3.2.0-beta1"
+  }
+}
